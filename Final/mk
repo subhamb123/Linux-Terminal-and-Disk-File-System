@@ -1,0 +1,3 @@
+rm a.out 2> /dev/null
+gcc main.c util.c alloc_dalloc.c
+./a.out

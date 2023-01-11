@@ -1,0 +1,2 @@
+sudo mount disk2 /mnt
+cd /mnt
